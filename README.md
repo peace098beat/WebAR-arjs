@@ -20,3 +20,4 @@ nginx -v
         root         /home/ec2-user/environment/html;
 
  curl localhost# WebAR-arjs
+# WebAR-arjs
